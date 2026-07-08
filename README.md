@@ -1,0 +1,1 @@
+# textsnap-privacy
